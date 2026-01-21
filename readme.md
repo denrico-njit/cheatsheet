@@ -27,3 +27,7 @@
   - **Syntax:** *`man` \<command\>*
   
 ## Git Commands:
+*Note: All git commands listed below are understood to be prefaced by `git`. For example `git init`*
+
+- **`init`:** initializes a new git repository in the current directory.
+  - **Syntax:** `git init`
