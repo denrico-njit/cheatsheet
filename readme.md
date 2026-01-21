@@ -19,5 +19,8 @@
 
 - **`rm`:** deletes a file or directory. Use the `-r` flag to delete recursively (i.e. all files and folders in a directory)
   - **Syntax:** *`rm` \(-f\) \<filename\>*
-  
+
+- **`mv`:** moves a file or directory. You can also use this to rename files.
+  - **Syntax:** *`mv` \<filename\> \<destination\>*
+
 ## Git Commands:
