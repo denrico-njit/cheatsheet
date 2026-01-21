@@ -17,4 +17,7 @@
 - **`touch`:** creates an empty file in the current directory
   - **Syntax:** *`touch` \<filename\>*
 
+- **`rm`:** deletes a file or directory. Use the `-r` flag to delete recursively (i.e. all files and folders in a directory)
+  - **Syntax:** *`rm` \(-f\) \<filename\>*
+  
 ## Git Commands:
