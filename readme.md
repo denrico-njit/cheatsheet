@@ -23,4 +23,7 @@
 - **`mv`:** moves a file or directory. You can also use this to rename files.
   - **Syntax:** *`mv` \<filename\> \<destination\>*
 
+- **`man`:** displays the manual page for a given command
+  - **Syntax:** *`man` \<command\>*
+  
 ## Git Commands:
