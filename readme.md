@@ -13,5 +13,8 @@
 
 - **`cat`:** concatenation tool—typically used for quickly outputting the contents of a file. 
   - **Syntax:** *`cat` \<filename\>*
-  
+
+- **`touch`:** creates an empty file in the current directory
+  - **Syntax:** *`touch` \<filename\>*
+
 ## Git Commands:
