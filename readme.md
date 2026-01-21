@@ -7,5 +7,8 @@
 
 - **`cd`:** changes the current directory
   - **Syntax:** *`cd` \<directory name\>*
+
+- **`pwd`:** displays the present working directory
+  - **Syntax:** *`pwd`*
   
 ## Git Commands:
