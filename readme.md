@@ -37,3 +37,6 @@
 
 - **`add`:** adds files to the staging area to be included in the next commit
   - **Syntax:** *`git add` \<filename\>*
+
+- **`commit`:** save a snapshot of the staged changes to the working directory. i.e. create a "save point". Use the `-m` flag to add a commit message at the command line
+  - **Syntax:** *`git commit [-m] "Commit message"`
