@@ -30,7 +30,10 @@
 *Note: All git commands listed below are understood to be prefaced by `git`. For example `git init`*
 
 - **`init`:** initializes a new git repository in the current directory.
-  - **Syntax:** `git init`
+  - **Syntax:** *`git init`*
 
 - **`status`:** displays the current state of the working directory and staging area.
-  - **Syntax:** `git status`
+  - **Syntax:** *`git status`*
+
+- **`add`:** adds files to the staging area to be included in the next commit
+  - **Syntax:** *`git add` \<filename\>*
