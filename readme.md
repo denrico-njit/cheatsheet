@@ -43,3 +43,6 @@
 
 - **`push`:** upload (push) committed changes to a remote repository
   - **Syntax:** *`git push` \<remote name\>*
+
+- **`pull`:** download (pull) committed changes from a remote repository
+  - **Syntax:** *`git pull` \<remote name\>*
