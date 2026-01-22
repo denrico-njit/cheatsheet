@@ -41,5 +41,5 @@
 - **`commit`:** save a snapshot of the staged changes to the working directory. i.e. create a "save point". Use the `-m` flag to add a commit message at the command line
   - **Syntax:** *`git commit [-m] "Commit message"`
 
-- **`push`:** upload (push) committed changes to a remote repository
-  - **Syntax:** *`git push` \<remote name\>*
+- **`push`:** upload (push) committed changes from the current branch to a remote repository. Use the `--all` flag to push all branches
+  - **Syntax:** *`git push` [--all] \<remote name\>*
