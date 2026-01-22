@@ -31,3 +31,6 @@
 
 - **`init`:** initializes a new git repository in the current directory.
   - **Syntax:** `git init`
+
+- **`status`:** displays the current state of the working directory and staging area.
+  - **Syntax:** `git status`
